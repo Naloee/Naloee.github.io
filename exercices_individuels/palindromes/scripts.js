@@ -106,3 +106,4 @@ console.log(isStringPalindrome("radar")); // true
 console.log(isStringPalindrome("hello")); // false
 console.log(isDatePalindrome("11/02/2011")); // true
 console.log(isDatePalindrome("03/04/2001")); // false
+
